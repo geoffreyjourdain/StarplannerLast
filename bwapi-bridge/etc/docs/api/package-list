@@ -1,0 +1,6 @@
+org.bwapi.bridge
+org.bwapi.bridge.model
+org.bwapi.bridge.sal
+org.bwapi.bridge.util
+org.bwapi.unit
+org.bwapi.unit.model
